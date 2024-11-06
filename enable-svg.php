@@ -26,3 +26,4 @@ define( 'ENABLE_SVG_MINIMUM_WP_VERSION', '6.6.2' );
 define( 'ENABLE_SVG_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 
 ?>
+
